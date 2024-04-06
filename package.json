@@ -1,0 +1,20 @@
+{
+  "name": "prabhakarbackend",
+  "version": "1.0.0",
+  "description": "basic app deployed",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node",
+    "with",
+    "chai"
+  ],
+  "author": "PRABHAKAR SINGH",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  }
+}
